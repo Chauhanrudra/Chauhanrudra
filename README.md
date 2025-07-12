@@ -10,7 +10,7 @@
 - Skilled in developing cross-platform apps with **Flutter**.
 - Proud **Pupil** on Codeforces with a max rating of **1209** and best rank of **2496** in Div 4.
 - Active on LeetCode with a max rank of **1600** in a contest.
-- Maintained a **184-day streak** on Codeforces, solving over **1000+ well-rated problems**.
+- Maintained a **510-day streak** on Codeforces, solving over **2100+ well-rated problems**.
 
 ## 🚀 **Skills**
 - **Languages:** C, C++, Java, SQL, Kotlin, Dart
