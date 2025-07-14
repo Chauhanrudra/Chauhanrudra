@@ -18,7 +18,7 @@
 - **Tools:** Android Studio, Retrofit, Coil
 
 ## 🏆 **Achievements**
-- **Codeforces:** Streak of **175+ days**, max rating **1209** (Pupil), best rank **2496**
+- **Codeforces:** Streak of **510+ days**, max rating **1328** (Pupil), best rank **2496**
 - **LeetCode:** Max rating **1600**
 - Solved **980 problems** on Codeforces
 - **Smart India Hackathon** participant
