@@ -15,7 +15,7 @@
 ## 🚀 **Skills**
 - **Languages:** C, C++, Java, SQL, Kotlin, Dart
 - **Frameworks:** Jetpack Compose, Android, Flutter
-- **Tools:** Android Studio, Retrofit, Coil
+- **Tools:** Docker, Apache Kafka, Nginx, Git, GitHub, Postman, AWS
 
 ## 🏆 **Achievements**
 - **Codeforces:** Streak of **510+ days**, max rating **1328** (Pupil), best rank **2496**
